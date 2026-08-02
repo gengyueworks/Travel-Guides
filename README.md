@@ -15,6 +15,7 @@
 | [一半海水，一半沙漠：骷髅海岸](essays/desert-and-sea/index.zh.md) | 待补 | 纳米比亚 |
 | [新疆巴扎：过年和爸妈逛过的市集](essays/xinjiang-bazaars/index.zh.md) | 待补 | 乌鲁木齐 |
 | [美国 10 年旅游签：两次都通过的实战经验](essays/us-visa-tips/index.zh.md) | 待补 | 美国签证 |
+| [关于成都，只有本地人才知道的冷知识](essays/chengdu-fun-facts/index.zh.md) | 待补 | 成都 |
 | [新加坡 24 小时的喜与欢 · 城市清单](essays/singapore-24-hours/index.zh.md) | [Singapore: 24 Hours of Joy and Delight](essays/singapore-24-hours/index.en.md) | 新加坡 |
 | [曼谷 24 小时的喜与欢 · 城市清单](essays/bangkok-24-hours/index.zh.md) | [Bangkok: 24 Hours of Joy and Delight](essays/bangkok-24-hours/index.en.md) | 曼谷 |
 | [马六甲 24 小时的喜与欢 · 城市清单](essays/malacca-24-hours/index.zh.md) | [Malacca: 24 Hours of Joy and Delight](essays/malacca-24-hours/index.en.md) | 马六甲 |
