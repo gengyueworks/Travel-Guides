@@ -13,6 +13,7 @@
 | [2025成都旅行参考｜景点、美食、路线实用信息合集](essays/chengdu-travel-reference/index.zh.md) | 待补 | 成都 |
 | [响沙湾沙漠旅行攻略](essays/xiangshawan-desert/index.zh.md) | 待补 | 内蒙古响沙湾 |
 | [一半海水，一半沙漠：骷髅海岸](essays/desert-and-sea/index.zh.md) | 待补 | 纳米比亚 |
+| [新疆巴扎：过年和爸妈逛过的市集](essays/xinjiang-bazaars/index.zh.md) | 待补 | 乌鲁木齐 |
 | [新加坡 24 小时的喜与欢 · 城市清单](essays/singapore-24-hours/index.zh.md) | [Singapore: 24 Hours of Joy and Delight](essays/singapore-24-hours/index.en.md) | 新加坡 |
 | [曼谷 24 小时的喜与欢 · 城市清单](essays/bangkok-24-hours/index.zh.md) | [Bangkok: 24 Hours of Joy and Delight](essays/bangkok-24-hours/index.en.md) | 曼谷 |
 | [马六甲 24 小时的喜与欢 · 城市清单](essays/malacca-24-hours/index.zh.md) | [Malacca: 24 Hours of Joy and Delight](essays/malacca-24-hours/index.en.md) | 马六甲 |
