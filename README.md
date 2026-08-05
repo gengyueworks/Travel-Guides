@@ -32,6 +32,7 @@
 | [那些一整年都在旅行的人，经济来源是什么？](essays/full-time-travelers/index.zh.md) | [How Do People Who Travel All Year Round Make a Living?](essays/full-time-travelers/index.en.md) | 旅居 |
 | [数字游民 · 如何实现一边工作，一边环游世界？](essays/digital-nomads/index.zh.md) | [Digital Nomads: How to Work While Traveling](essays/digital-nomads/index.en.md) | 数字游民 |
 | [在厦门的小吃街巷，我一天吃了六顿](essays/xiamen-street-food/index.zh.md) | [Six Meals a Day in Xiamen's Snack Alleys](essays/xiamen-street-food/index.en.md) | 厦门 |
+| [摩洛哥马拉喀什 · 马若雷勒花园](essays/majorelle-garden/index.zh.md) | [Majorelle Garden, Marrakesh](essays/majorelle-garden/index.en.md) | 摩洛哥 · 马拉喀什 |
 
 ---
 
