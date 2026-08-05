@@ -33,6 +33,7 @@
 | [数字游民 · 如何实现一边工作，一边环游世界？](essays/digital-nomads/index.zh.md) | [Digital Nomads: How to Work While Traveling](essays/digital-nomads/index.en.md) | 数字游民 |
 | [在厦门的小吃街巷，我一天吃了六顿](essays/xiamen-street-food/index.zh.md) | [Six Meals a Day in Xiamen's Snack Alleys](essays/xiamen-street-food/index.en.md) | 厦门 |
 | [摩洛哥马拉喀什 · 马若雷勒花园](essays/majorelle-garden/index.zh.md) | [Majorelle Garden, Marrakesh](essays/majorelle-garden/index.en.md) | 摩洛哥 · 马拉喀什 |
+| [新疆喀什 · 《万里国境2》观后感](essays/kashgar-wanli-guojing/index.zh.md) | [Kashgar, Xinjiang · Notes on *Ten Thousand Miles of Borderland*](essays/kashgar-wanli-guojing/index.en.md) | 新疆 · 喀什 |
 
 ---
 
