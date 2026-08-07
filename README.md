@@ -12,9 +12,9 @@
 
 ---
 
-## 📖 文章目录 · Essays
+## 目录 · Contents
 
-| 中文 | English | 城市 |
+| 中文 | English | 备注 |
 |------|---------|------|
 | [2025成都旅行参考｜景点、美食、路线实用信息合集](essays/chengdu-travel-reference/index.zh.md) | 待补 | 成都 |
 | [庞贝古城 · 一座在时空中冻结的城](essays/pompeii-ruins/index.zh.md) | 待补 | 意大利 · 那不勒斯 |
